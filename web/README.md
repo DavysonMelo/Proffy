@@ -1,4 +1,6 @@
-<h1 align="center">Proffy</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DavysonMelo/Proffy/7c02d05d5afcc192813929027f0589f37418b823/web/src/assets/images/logo.svg">
+</div>
 
 <h1>💻 About</h1>
   <p>Proffy's web platform where students can search for teachers,
